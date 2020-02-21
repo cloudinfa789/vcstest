@@ -1,0 +1,67 @@
+{
+  "objectInfo" : {
+    "id" : "2MJpjS5RvcddNFOUDPF4Ek",
+    "name" : "dss_m3_23_23_1580186743365",
+    "type" : "DSS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101YU0I00000000001P"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "dss task",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "2AKnRT5tmSJgF5dQG6Tgsl",
+    "name" : "csv_23_23_1580186736834",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101YU0B000000000026"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "csv",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5hePTytVqJLfwXooGmmMOU",
+    "name" : "csv_23_23_1580186737951",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101YU0B00000000000V"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "csv",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
